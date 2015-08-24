@@ -1,0 +1,12 @@
+### Larry .gitignore user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen.idea
+
+# cordova platform binary files
+platforms
+
+# Created by .ignore support plugin (hsz.mobi)
